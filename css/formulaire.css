@@ -1,0 +1,55 @@
+body {
+    padding: 1%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+form {
+    /*width: 90%;*/
+    min-width: 200px;
+    border-radius: 50px;
+}
+
+form > div {
+    margin: 10px 50px 10px 50px !important;
+}
+
+form * {
+    color: #7CB342 !important;
+    
+}
+
+button {
+    align-self: center;
+    color: white !important;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+fieldset {
+    border: 0;
+}
+legend {
+    font-size: 2em;
+}
+
+/*
+.input-field *, .text-area *{
+    color: #7CB342 !important;
+}
+textarea {
+    color: #7CB342 !important;
+}
+
+.input-field input[type=text]:focus + label {
+    color: #6BA231 !important;
+}
+*/
+input, #mail-content {
+    border-bottom: 1px solid #7CB342 !important;
+    box-shadow: 0 1px 0 0 #6BA231 !important;
+}
