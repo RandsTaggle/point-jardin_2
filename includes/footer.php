@@ -5,9 +5,9 @@
                 <!--<img src="images/logo.jpg" class="logo" />-->
                 <h5 class="white-text">Point Jardin</h5>
                 <p class="grey-text text-lighten-4">
-                    <div class="address"> 54 route Nationale 12
-                        <br> 28380 Saint-Rémy-sur-Avre</div>
-                    <div class="phone">02.37.63.50.22</div>
+                <div class="address"> 54 route Nationale 12
+                    <br> 28380 Saint-Rémy-sur-Avre</div>
+                <div class="phone">02.37.63.50.22</div>
             </div>
             <div class="col l4 s12">
                 <h5 class="white-text">Horaires</h5>
@@ -19,10 +19,16 @@
                     </ul>
                 </div>
             </div>
-            <div class="col l4 s12">
-                <div class="fb-page row" data-href="https://www.facebook.com/pointjardin" data-width="380" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/pointjardin" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/pointjardin" class="white-text">Point Jardin sur Facebook</a></blockquote></div>
-                <div class="row">
-                    <a class="waves-effect waves-light btn green darken-2" href="formulaire.php">Nous contacter</a>
+            <div class="col s12 l4">
+                <blockquote>
+                    <div class="fb-page row" data-href="https://www.facebook.com/pointjardin" data-width="380" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false">
+                        <img src="img/logo_facebook.png" alt="Logo de Facebook"/>
+                        <a href="https://www.facebook.com/pointjardin" class="white-text">Point Jardin sur Facebook</a>
+                    </div>
+                    <div class="row">
+                        <a class="waves-effect waves-light btn green darken-2" href="formulaire.php">Nous contacter</a>
+                    </div>
+                </blockquote>
                 </div>
             </div>
         </div>
